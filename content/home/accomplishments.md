@@ -41,6 +41,7 @@ item:
     description: ''
     organization: University of Liverpool
     organization_url: 
+    company_logo: UoL
     title: 'Spanish Stage 4: A2'
     url: 'https://www.liverpool.ac.uk/languages/open-languages/open-languages/spanishcourses/spanishcourses4/'
 
