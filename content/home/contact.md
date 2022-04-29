@@ -37,8 +37,8 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: @DanialOwenCDT
-      link: 'https://twitter.com/DanialOwenCDT'
+      name: DM me
+      link: 'https://twitter.com/Twitter'
     
 design:
   columns: '2'
