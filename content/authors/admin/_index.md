@@ -13,9 +13,6 @@ organizations:
   - name: Geographic Data Science Lab
     url: https://www.liverpool.ac.uk/geographic-data-science/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 # Interests to show in About widget
 interests:
   - Machine Learning
@@ -67,8 +64,8 @@ social:
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently in my final year of my integrated MSc/PhD in Data Analytics and Society at the Geographic Data Science Lab at the University of Liverpool. My research interests are utilizing open-sourced sensor data to better understand and explore human dynamics and the functionality of cities. I primarily work in Python, however, I also use R and QGIS.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During my studies, I have worked on several research projects (*see Projects page*) and undertaken multiple roles (*see Experience or download my resumé*).  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
