@@ -12,6 +12,6 @@ title: Gallery
 subtitle:
 
 content: 
-  {{< gallery album="<gal_album>" >}}
+  {{< gallery album="gal_album" >}}
 
 ---
