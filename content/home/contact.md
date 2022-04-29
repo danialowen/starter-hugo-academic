@@ -30,7 +30,7 @@ content:
   address:
     street: 1st Floor Roxby Building
     city: Liverpool
-    region: 
+    region: Merseyside
     postcode: 'L69 7ZT'
     country: United Kingdom
     country_code: UK
