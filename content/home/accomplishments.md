@@ -23,27 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: ''
+  - certificate_url: https://www.edx.org
+    date_end: ''
     date_start: '2021-03'
     description: ''
     organization: Udemy
     organization_url: https://www.udemy.com/
     title: Introduction to Databases and SQL Querying
     url: 'https://www.udemy.com/course/introduction-to-databases-and-sql-querying/'
-  - date_end: ''
-    date_start: '2021-07'
-    description: ''
-    organization: University of Liverpool
-    organization_url: https://www.liverpool.ac.uk/continuing-education/
-    title: Spanish Stage 5: A2+
-    url: https://www.liverpool.ac.uk/languages/open-languages/open-languages/spanishcourses/spanishcourses5/
-  - date_end: ''
-    date_start: '2019-03'
-    description: ''
-    organization: University of Liverpool
-    organization_url: https://www.liverpool.ac.uk/continuing-education/
-    title: Spanish Stage 4: A2
-    url: 'https://www.liverpool.ac.uk/languages/open-languages/open-languages/spanishcourses/spanishcourses4/'
+  #- date_end: ''
+  #  date_start: '2021-07'
+  #  description: ''
+  #  organization: University of Liverpool
+  #  organization_url: https://www.liverpool.ac.uk/continuing-education/
+  #  title: Spanish Stage 5: A2+
+  #  url: https://www.liverpool.ac.uk/languages/open-languages/open-languages/spanishcourses/spanishcourses5/
+  #- date_end: ''
+  #  date_start: '2019-03'
+  #  description: ''
+  #  organization: University of Liverpool
+  #  organization_url: https://www.liverpool.ac.uk/continuing-education/
+  #  title: Spanish Stage 4: A2
+  #  url: 'https://www.liverpool.ac.uk/languages/open-languages/open-languages/spanishcourses/spanishcourses4/'
 
 design:
   columns: '2'
