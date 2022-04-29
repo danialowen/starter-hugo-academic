@@ -36,21 +36,21 @@ experience:
         * Academic supervisor to three undergraduate groups.
         * Teaching students the concepts and application of spatial data science methods using Python.
 
-  #- title: Data Science Internship
-  #  company: IDOM
-  #  company_url: ''
-  #  company_logo: idom
-  #  location: Madrid & Sevilla
-  #  date_start: '2019-03-23'
-  #  date_end: '2019-04-05'
-  #  description: Pre-processing big telecommunication data to visualise mobility in the Costa del Sol on a dashboard, using Python, InfluxDB, and Grafana.
+  - title: Data Science Internship
+    company: IDOM
+    company_url: ''
+    company_logo: idom
+    location: Madrid & Sevilla
+    date_start: '2019-03-23'
+    date_end: '2019-04-05'
+    description: Pre-processing big telecommunication data to visualise mobility in the Costa del Sol on a dashboard, using Python, InfluxDB, and Grafana.
     
   - title: University Demonstrator
     company: University of Liverpool
     company_url: ''
     company_logo: UoL
     location: Liverpool
-    date_start: '2018-09-31'
+    date_start: '2018-09-30'
     date_end: '2021-09-13'
     description: Demonstrating on undergraduate/postgraduate modules. Helping student to explore natural and human phenomena using QGIS, ArcMap, and R.
 
