@@ -35,13 +35,14 @@ item:
     description: ''
     organization: University of Liverpool
     title: 'Spanish Stage 5: A2+'
+    url: 'https://www.liverpool.ac.uk/languages/open-languages/open-languages/spanishcourses/spanishcourses5/'
   - date_end: ''
     date_start: '2019-03-01'
     description: ''
     organization: University of Liverpool
     organization_url: 
     title: 'Spanish Stage 4: A2'
-    url: 
+    url: 'https://www.liverpool.ac.uk/languages/open-languages/open-languages/spanishcourses/spanishcourses4/'
 
 design:
   columns: '2'
