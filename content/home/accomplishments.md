@@ -34,9 +34,7 @@ item:
     date_start: '2021-07-01'
     description: ''
     organization: University of Liverpool
-    organization_url: 
     title: Spanish Stage 5: A2+
-    url: 
   - date_end: ''
     date_start: '2019-03-01'
     description: ''
