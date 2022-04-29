@@ -15,18 +15,8 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
   # Contact details (edit or remove options as required)
-  email: d.w.owen@liverpool.ac.uk
-  phone: 07475909943
+  email: danialowen@live.co.uk
   address:
     street: 1st Floor Roxby Building
     city: Liverpool
@@ -43,6 +33,11 @@ content:
       icon_pack: fab
       name: 'Danial Owen'
       link: 'https://www.linkedin.com/in/danial-owen-960847158/'
+    - icon: github
+      icon_pack: fab
+      name: 'danialowen'
+      link: 'https://github.com/danialowen'
+      
     
 design:
   columns: '2'
