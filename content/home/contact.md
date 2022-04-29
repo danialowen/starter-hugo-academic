@@ -39,11 +39,7 @@ content:
       icon_pack: fab
       name: @DanialOwenCDT
       link: 'https://twitter.com/DanialOwenCDT'
-    - icon: linkedin
-      icon_pack: fab
-      name: @DanialOwen
-      link: 'https://www.linkedin.com/in/danial-owen-960847158/'
-
+    
 design:
   columns: '2'
 ---
