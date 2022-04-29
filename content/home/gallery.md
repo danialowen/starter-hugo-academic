@@ -1,12 +1,12 @@
-widget: blank
+---
+# An instance of the Contact widget.
+widget: contact
+
+# This file represents a page section.
 headless: true
 
-# ... Put Your Section Options Here (title etc.) ...
-title: My New Section
+# Order that this section appears on the page.
+weight: 140
+
+title: Gallery
 subtitle:
-weight: 90  # section position on page
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  
-  #content: {{< gallery album="<gal_album>" >}}
