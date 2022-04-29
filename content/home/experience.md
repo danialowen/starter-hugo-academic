@@ -45,14 +45,14 @@ experience:
   #  date_end: '2019-04-05'
   #  description: Pre-processing big telecommunication data to visualise mobility in the Costa del Sol on a dashboard, using Python, InfluxDB, and Grafana.
     
-  #- title: University Demonstrator
-  #  company: University of Liverpool
-  #  company_url: ''
-  #  company_logo: UoL
-  #  location: Liverpool
-  #  date_start: '2018-09-31'
-  #  date_end: '2021-09-13'
-  #  description: Demonstrating on undergraduate/postgraduate modules. Helping student to explore natural and human phenomena using QGIS, ArcMap, and R.
+  - title: University Demonstrator
+    company: University of Liverpool
+    company_url: ''
+    company_logo: UoL
+    location: Liverpool
+    date_start: '2018-09-31'
+    date_end: '2021-09-13'
+    description: Demonstrating on undergraduate/postgraduate modules. Helping student to explore natural and human phenomena using QGIS, ArcMap, and R.
 
 design:
   columns: '2'
