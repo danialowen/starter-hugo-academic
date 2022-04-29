@@ -31,14 +31,14 @@ item:
     title: Introduction to Databases and SQL Querying
     url: 'https://www.udemy.com/course/introduction-to-databases-and-sql-querying/'
   - date_end: ''
-    date_start: '2021-07'
+    date_start: '2021-07-01'
     description: ''
     organization: University of Liverpool
     organization_url: https://www.liverpool.ac.uk/continuing-education/
     title: Spanish Stage 5: A2+
     url: https://www.liverpool.ac.uk/languages/open-languages/open-languages/spanishcourses/spanishcourses5/
   - date_end: ''
-    date_start: '2019-03'
+    date_start: '2019-03-01'
     description: ''
     organization: University of Liverpool
     organization_url: https://www.liverpool.ac.uk/continuing-education/
