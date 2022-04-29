@@ -1,17 +1,14 @@
 ---
 # An instance of the Contact widget.
-widget: contact
+#widget: contact
 
 # This file represents a page section.
-headless: true
+#headless: true
 
 # Order that this section appears on the page.
-weight: 140
+#weight: 140
 
-title: Gallery
-subtitle:
-
-content: 
-  {{< gallery album="gal_album" >}}
+#title: Gallery
+#subtitle:
 
 ---
