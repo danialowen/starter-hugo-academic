@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Danial Owen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Analytics and Society
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Geographic Data Science Lab
+    url: https://www.liverpool.ac.uk/geographic-data-science/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Sensor Data
+  - Python, R, and QGIS
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Data Analytics and Society
+      institution: University of Liverpool
+      year: 2018 - Present
+    - course: MSc in Data Analytics and Society
+      institution: University of Liverpool
+      year: 2020
+    - course: BSc in Physical Geography
+      institution: University of Liverpool
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
