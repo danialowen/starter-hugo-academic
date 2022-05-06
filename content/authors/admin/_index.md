@@ -66,6 +66,6 @@ highlight_name: true
 
 I am currently in my final year of my integrated MSc/PhD in Data Analytics and Society at the Geographic Data Science Lab at the University of Liverpool. My research interests are utilizing open-sourced sensor data to better understand and explore human dynamics and the functionality of cities. I primarily work in Python, however, I also use R and QGIS.  
 
-During my studies, I have worked on several research projects (*see Projects page*) and undertaken multiple roles (*see Experience or download my resumé*).  
+During my studies, I have worked on several research projects and undertaken multiple roles (*see* ***Experience*** *or download my* ***resumé***).  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
